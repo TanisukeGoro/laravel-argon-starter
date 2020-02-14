@@ -20,7 +20,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="card-body">
+                    <div class="card-body">
                         <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
                         <video width="100%" controls autoplay poster="https://vod-streaming-backet.s3-ap-northeast-1.amazonaws.com/assets/b399ca31-eaa2-4ffa-9363-220a3e883408/Thumbnails/gs_creative_garage_no4.0000002.jpg" id="hls-video"></video>
                         <script>
@@ -40,7 +40,7 @@
                                 });
                             }
                         </script>
-                    </div> -->
+                    </div>
                 </div>
             </div>
             <div class="col-xl-4">
