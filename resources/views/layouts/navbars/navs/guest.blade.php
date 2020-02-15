@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-6 collapse-brand">
                         <a href="#">
-                            <img src="{{ secure_asset('argon') }}/img/brand/logo_red.png.png">
+                            <img src="{{ secure_asset('argon') }}/img/brand/logo_red.png">
                         </a>
                     </div>
                     <div class="col-6 collapse-close">
