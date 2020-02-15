@@ -90,7 +90,7 @@
                             <tbody>
                                 <tr>
                                     <th scope="row">
-                                        <a class="opened-link" href="https://speakerdeck.com/">登壇資料PDF</a> 
+                                        <a class="opened-link" href="https://speakerdeck.com/tanisukegoro/gscreativegarage-number-4-deng-tan-zi-liao/">登壇資料PDF</a> 
                                     </th>
                                     <td>
                                         <div class="d-flex align-items-center">
@@ -106,7 +106,7 @@
                                 <tr>
                                     <th scope="row">
                                         <a class="opened-link" href="https://github.com/TanisukeGoro/aws-vod-streaming-tutorial">チュートリアル Github</a> 
-                                    </th>
+                                     </th>
                                     <td>
                                         <div class="d-flex align-items-center">
                                             <span class="mr-2">60%</span>
