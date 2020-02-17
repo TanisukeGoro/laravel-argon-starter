@@ -16,7 +16,7 @@ npm-debug.log
 yarn-error.log
 
 # [ argon dashboard ]
-# /public/argon
+/public/argon
 
 # [ log ]
 /logs
